@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180">
+  <!-- нитка -->
+  <line x1="880" y1="0" x2="880" y2="30" stroke="#a18cd1" stroke-width="2">
+    <animate attributeName="y2" values="30;130;30" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" dur="6s" repeatCount="indefinite"/>
+  </line>
+  <!-- паук -->
+  <g transform="translate(880,30)">
+    <animateTransform attributeName="transform" type="translate" values="880,30;880,130;880,30" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" dur="6s" repeatCount="indefinite"/>
+    <g stroke="#6b4fa0" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-8 6 L-20 -6 L-31 4"/>
+      <path d="M-9 10 L-24 4 L-34 16"/>
+      <path d="M-9 15 L-24 18 L-32 31"/>
+      <path d="M-7 19 L-18 29 L-24 42"/>
+      <g transform="scale(-1,1)">
+        <path d="M-8 6 L-20 -6 L-31 4"/>
+        <path d="M-9 10 L-24 4 L-34 16"/>
+        <path d="M-9 15 L-24 18 L-32 31"/>
+        <path d="M-7 19 L-18 29 L-24 42"/>
+      </g>
+    </g>
+    <ellipse cx="0" cy="12" rx="13" ry="15" fill="#6b4fa0"/>
+    <circle cx="0" cy="-5" r="9" fill="#7f5af0"/>
+    <circle cx="-3.5" cy="-7" r="2.5" fill="#fff"/>
+    <circle cx="3.5" cy="-7" r="2.5" fill="#fff"/>
+    <circle cx="-3.5" cy="-7" r="1.2" fill="#2b2b3a"/>
+    <circle cx="3.5" cy="-7" r="1.2" fill="#2b2b3a"/>
+    <circle cx="0" cy="10" r="3" fill="#ff9a9e"/>
+  </g>
+</svg>
