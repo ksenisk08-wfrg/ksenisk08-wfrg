@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,100:a18cd1&height=140&section=header" width="100%"/>
+<img src="spider.svg" width="100%" alt="Паук"/>
 
 # Привет, я Ксения
 
