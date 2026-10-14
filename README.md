@@ -17,3 +17,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<img src="cat.svg" width="100%" alt="Бегущий котик"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:ff9a9e&height=120&section=footer" width="100%"/>
